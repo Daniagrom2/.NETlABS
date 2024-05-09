@@ -1,0 +1,7 @@
+C:\Users\Danyil\source\repos\Tests\BEZPEKd\BEZPEKd\bin\Debug\BEZPEKd.exe.config
+C:\Users\Danyil\source\repos\Tests\BEZPEKd\BEZPEKd\bin\Debug\BEZPEKd.exe
+C:\Users\Danyil\source\repos\Tests\BEZPEKd\BEZPEKd\bin\Debug\BEZPEKd.pdb
+C:\Users\Danyil\source\repos\Tests\BEZPEKd\BEZPEKd\obj\Debug\BEZPEKd.csproj.AssemblyReference.cache
+C:\Users\Danyil\source\repos\Tests\BEZPEKd\BEZPEKd\obj\Debug\BEZPEKd.csproj.CoreCompileInputs.cache
+C:\Users\Danyil\source\repos\Tests\BEZPEKd\BEZPEKd\obj\Debug\BEZPEKd.exe
+C:\Users\Danyil\source\repos\Tests\BEZPEKd\BEZPEKd\obj\Debug\BEZPEKd.pdb
